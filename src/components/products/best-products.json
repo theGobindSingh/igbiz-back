@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_products_best_products",
+  "info": {
+    "displayName": "bestProducts"
+  },
+  "options": {},
+  "attributes": {
+    "product1": {
+      "type": "component",
+      "repeatable": false,
+      "component": "products.single-product",
+      "required": true
+    },
+    "product2": {
+      "type": "component",
+      "repeatable": false,
+      "component": "products.single-product",
+      "required": true
+    },
+    "product3": {
+      "type": "component",
+      "repeatable": false,
+      "component": "products.single-product",
+      "required": true
+    },
+    "product4": {
+      "type": "component",
+      "repeatable": false,
+      "component": "products.single-product"
+    },
+    "product5": {
+      "type": "component",
+      "repeatable": false,
+      "component": "products.single-product"
+    }
+  }
+}
